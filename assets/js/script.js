@@ -19,7 +19,8 @@ document.addEventListener('DOMContentLoaded', function() {
     })
         runGame('addition');
     }
-
+}
+                          
 /**
 /* The main game "loop", called when the script is first loaded
 *  and after the user's answer has been processed
